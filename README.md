@@ -1,2 +1,2 @@
 # Nome: Caliel Farias
-# Eamil: cjfs@cesar.school
+# Email: cjfs@cesar.school
